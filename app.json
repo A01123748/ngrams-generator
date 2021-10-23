@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ngrams-generator",
+    "slug": "ngrams-generator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ngrams-generator"
+}
