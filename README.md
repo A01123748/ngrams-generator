@@ -1,4 +1,4 @@
-# ngrams-generator
+# Ngrams-Generator
 
 ## Run as a expo react-native app
 yarn ios
